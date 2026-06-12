@@ -54,13 +54,13 @@ Soy un profesional de la ingeniería enfocado en maximizar el rendimiento del ha
 ### 📊 GitHub Stats / Estadísticas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_AQUI&show_icons=true&theme=radium" alt="Jorge's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Jorge Medellin&show_icons=true&theme=radium" alt="Jorge's GitHub Stats" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO_AQUI&theme=radium" alt="Jorge's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jorge Medellin&theme=radium" alt="Jorge's GitHub Streak" />
 </div>
 
 ---
