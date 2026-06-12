@@ -8,61 +8,59 @@
 
 <h2 id="english">🇬🇧 English</h2>
 
-### Hardware & Software Engineer | System Optimization & Linux Enthusiast ⚙️
+### Software Engineer | System Optimization & Hardware Enthusiast ⚙️
 
-I am an engineering professional focused on maximizing hardware performance and exploring the depths of operating systems. I enjoy finding efficient solutions, fine-tuning environments, and constantly pushing my technical skills to the next level.
+I am a Software Engineering graduate from the Polytechnic University of Santa Rosa Jáuregui (UPSRJ). I am passionate about development, computer systems, and creating efficient solutions. 
 
 ### 🚀 About Me
-- 🔭 I’m currently focused on **OS optimization** and hardware efficiency.
-- 🐧 My daily driver and preferred environment is **Fedora Linux**.
-- 🌍 Actively advancing my professional English communication (Targeting B2 proficiency).
-- 💬 Ask me about: **System setups, hardware troubleshooting, and discipline in daily goals.**
-- 📫 How to reach me: **[jm6431255@gmail.com](mailto:jm6431255@gmail.com)**
+- 🎓 **Education:** Software Engineering Graduate from UPSRJ.
+- 💻 **Core Skills:** Unity, Python, JavaScript, C++, MySQL, MongoDB, HTML, Android Studio, and Embedded Systems.
+- 🎮 **Specialties:** Game Development & Software Architecture.
+- 🐧 **Environment:** Currently fine-tuning Fedora Linux for maximum performance.
+- 🌍 **Languages:** English (B2 level).
+- 💬 **Ask me about:** Game dev, embedded systems, or optimizing daily workflows.
 
 ---
 
 <h2 id="español">🇪🇸 Español</h2>
 
-### Ingeniero en Hardware y Software | Entusiasta de la Optimización de Sistemas y Linux ⚙️
+### Ingeniero en Software | Entusiasta de la Optimización y Hardware ⚙️
 
-Soy un profesional de la ingeniería enfocado en maximizar el rendimiento del hardware y explorar a fondo los sistemas operativos. Disfruto encontrar soluciones eficientes, optimizar entornos y llevar constantemente mis habilidades técnicas al siguiente nivel.
+Soy egresado de Ingeniería en Software por la Universidad Politécnica de Santa Rosa Jáuregui (UPSRJ). Me apasiona el desarrollo tecnológico, los sistemas computacionales y la creación de soluciones eficientes.
 
 ### 🚀 Sobre Mí
-- 🔭 Actualmente enfocado en la **optimización de sistemas operativos** y eficiencia de hardware.
-- 🐧 Mi sistema principal y entorno de desarrollo preferido es **Fedora Linux**.
-- 🌍 Mejorando activamente mi comunicación profesional en inglés (Buscando un nivel C1).
-- 💬 Pregúntame sobre: **Configuración de sistemas, resolución de problemas de hardware y disciplina en metas diarias.**
-- 📫 Cómo contactarme: **[jm6431255@gmail.com](mailto:jm6431255@gmail.com)**
+- 🎓 **Formación:** Ingeniero en Software egresado de la UPSRJ.
+- 💻 **Stack Tecnológico:** Unity, Python, JavaScript, C++, MySQL, MongoDB, HTML, Android Studio y Sistemas Embebidos.
+- 🎮 **Especialidades:** Desarrollo de videojuegos y arquitectura de software.
+- 🐧 **Entorno:** Optimización de entornos Linux (Fedora).
+- 🌍 **Idiomas:** Inglés (Nivel B2).
+- 💬 **Pregúntame sobre:** Desarrollo de juegos, sistemas embebidos o cómo optimizar tus procesos diarios.
 
 ---
 
-### 💻 Tech Stack & Tools / Herramientas y Tecnologías
+### 💻 Tech Stack & Tools
 
-*Technologies and environments I work with / Tecnologías y entornos con los que trabajo:*
-
-**Operating Systems & Environments:**
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
-
-**Engineering & Workflow:**
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 ---
 
-### 📊 GitHub Stats / Estadísticas
+### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jm6431255-glitch&show_icons=true&theme=radium" alt="Jorge's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=jm6431255-glitch&show_icons=true&theme=radium" alt="Jorge's Stats" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jm6431255-glitch&theme=radium" alt="Jorge's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jm6431255-glitch&theme=radium" alt="Jorge's Streak" />
 </div>
 
 ---
-*“Consistency and discipline build the foundation for any successful project.”*  
-*“La constancia y la disciplina construyen la base de cualquier proyecto exitoso.”*
+*“Consistency and discipline build the foundation for any successful project.”*
